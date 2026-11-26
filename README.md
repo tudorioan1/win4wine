@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../docs/images/screenshot-en.png" alt="win4wine: the English Windows XP shell with Linux and Windows applications on Debian 13" width="800" />
+  <img src="https://raw.githubusercontent.com/tudorioan1/win4wine/refs/heads/master/docs/images/screenshot-en.png" alt="win4wine: the English Windows XP shell with Linux and Windows applications on Debian 13" width="800" />
 </p>
 <p align="center">
   <strong>Your Linux desktop, with the Windows XP shell.</strong>
