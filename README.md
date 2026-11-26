@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/Wine-11.0-8B0000?style=flat" alt="Wine 11.0">
   <img src="https://img.shields.io/badge/status-experimental-orange?style=flat" alt="Status: experimental">
 </p>
-<p align="center">
-  <a href="../../README.md">日本語</a> ·
-  <strong>English</strong>
-</p>
 
 > [!IMPORTANT]
 > **This is a personal, experimental project**, not a finished product for daily use.
